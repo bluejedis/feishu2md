@@ -1,6 +1,6 @@
 tips:
 1. 开放文档权限：互联网可阅读
-2. cmd中到想要下载的磁盘/文件夹位置后：feishu2md dl <ink>
+2. cmd中到想要下载的磁盘/文件夹位置后：feishu2md dl <your-ink
 
 ## 大佬的原教程 https://github.com/Wsine/feishu2md
 
